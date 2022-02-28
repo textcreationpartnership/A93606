@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second beacon fired by Scintilla with his humble information and joynt attestation to the truth of his brethrens former declaration &amp; catalogue, that fired the first beacon. Wherein is remembred the former actings of the papists in their secret plots: and now discovering their wicked designes to set up, advance, and cunningly to usher in popery; by introducing pictures to the Holy Bible: and by sending many young gentlewomen beyond the seas to the nunnes. Also, shewing and setting forth the misery of the whole Company of Stationers: and holding out rather a desolation to religion then a reformation; as more at large appears both in our ministers and churches, in these sad times, when blasphemy, negromancy, popery, and all heresies be printed and publiquely sold, in a most horrid manner without controll or punishment.</title>
+            <author>Sparke, Michael, d. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93606</idno>
+            <idno type="STC">Wing S4818BA</idno>
+            <idno type="STC">Thomason E675_29</idno>
+            <idno type="STC">ESTC R203511</idno>
+            <idno type="EEBO-CITATION">99900173</idno>
+            <idno type="PROQUEST">99900173</idno>
+            <idno type="VID">135355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135355)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2556:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second beacon fired by Scintilla with his humble information and joynt attestation to the truth of his brethrens former declaration &amp; catalogue, that fired the first beacon. Wherein is remembred the former actings of the papists in their secret plots: and now discovering their wicked designes to set up, advance, and cunningly to usher in popery; by introducing pictures to the Holy Bible: and by sending many young gentlewomen beyond the seas to the nunnes. Also, shewing and setting forth the misery of the whole Company of Stationers: and holding out rather a desolation to religion then a reformation; as more at large appears both in our ministers and churches, in these sad times, when blasphemy, negromancy, popery, and all heresies be printed and publiquely sold, in a most horrid manner without controll or punishment.</title>
+                  <author>Sparke, Michael, d. 1653.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Scintilla = Michael Sparke.</note>
+                  <note>Annotation on Thomason copy: "Octob. 4".</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Stationers' Company (London, England) --  Early works to 1800.</term>
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term>Censorship --  England --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135355:1"/>
+            <p>A SECOND BEACON FIRED by <hi>SCINTILLA:</hi> WITH HIS HUMBLE INFORMATION AND JOYNT ATTESTATION To the Truth of his Brethrens former <hi>DECLARATION</hi> &amp; <hi>CATALOG<g ref="char:V">Ʋ</g>E,</hi> that Fired the Firſt BEACON. Wherein is remembred the former Actings of the PAPISTS in their ſecret Plots: And now diſcovering their wicked Deſignes to ſet up, advance, and cunningly to uſher in <hi>Popery;</hi> By introducing <hi>Pictures</hi> to the <hi>Holy Bible:</hi> And by ſending many young Gentlewomen beyond the Seas to the NUNNES.</p>
+            <p>
+               <hi>ALSO,</hi> Shewing and ſetting forth the Miſery Of the whole COMPANY of STATIONERS: And holding out rather a <hi>Deſolation</hi> to Religion then a <hi>Reformation;</hi> As more at large appears both in our Miniſters and Churches, in theſe ſad times, when <hi>Blaſphemy, Negromancy, Popery,</hi> and all Hereſies be Printed and Publiquely Sold, in a moſt horrid manner without controll or Puniſhment.</p>
+            <p>ACTS 19.19.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135355:2"/>
+            <pb n="3" facs="tcp:135355:2"/>
+            <head>Obſequium Amicos, Veritas Odium parit.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here I left in my former <hi>Scintilla,</hi>
+               <note place="margin">
+                  <hi>Sect.</hi> 1.</note> and here I be<g ref="char:EOLhyphen"/>gin again to fire a Second <hi>Beacon:</hi> The <hi>Lord</hi> grant it may give warning to our <hi>Watchmen</hi> the <hi>High</hi> and <hi>Honourable Parliament</hi> and Gover<g ref="char:EOLhyphen"/>nours of our <hi>Commonwealth:</hi> I write not for <hi>profit,</hi> nor <hi>vain glory,</hi> but for <hi>Truths ſake,</hi> which I follow ſo cloſe at the Heels, that I may happi<g ref="char:EOLhyphen"/>ly be ſo looked back upon, that I may perceive a frowning <hi>Brow,</hi> an envious <hi>Heart,</hi> or a malignant <hi>Eye.</hi> But that which puts me on at this preſent, is to atteſt a <hi>Truth,</hi> and to joyne with my <hi>Brethren</hi> that ſet the firſt <hi>Beacon</hi> on <hi>fire,</hi> and now by <hi>firing</hi> this <hi>Beacon,</hi> there may be the more warning to find out the <hi>Plots</hi> and ſubtle dealing of the <hi>Enemy</hi> to the Government of our <hi>State</hi> and <hi>Reformation</hi> in <hi>Religion.</hi> Had I had any notice of theirs, I ſhould have added one ſheet of <hi>Paper</hi> to them, for the more <hi>light:</hi> But neither <hi>knowing,</hi> nor <hi>hearing,</hi> nor <hi>ſeeing</hi> any thing till it was <hi>publick,</hi> I was <hi>ſilent:</hi> Now having peruſed theirs, I here begin to <hi>light mine,</hi> (Now theirs is out.) The firſt they begin with in order, I ſhall do the ſame in a brief but ſhort <hi>Compendium,</hi> I ſhall only name and hint of ſome old <hi>Truths,</hi> and ſo run up the <hi>Beacon</hi> and <hi>fire</hi> it anew, that you may ſo perceive the <hi>Truth</hi> which this <hi>Beacons light</hi> diſcovers, the full intentions of <hi>Papiſts,</hi> and <hi>Popiſh plots,</hi> to advance their <hi>Religion,</hi> and to extirpate the <hi>Proteſtant:</hi>
+               <note place="margin">
+                  <hi>Sect.</hi> 2.</note> I begin with their firſt plot<g ref="char:EOLhyphen"/>ters of late years, that thought to <hi>ruine</hi> at once the <hi>Proteſtant Religion,</hi> and with an <hi>high hand</hi> then to bring in the <hi>Popiſh</hi> at one <hi>blow,</hi> (but that the <hi>Lord</hi> prevented) and then I ſhall go on to ſhew their wicked intendments to this preſent.</p>
+            <pb facs="tcp:135355:3" rendition="simple:additions"/>
+            <p>Theſe <hi>Plo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> were firſt put on by the Devill, and he became a lying <hi>Spirit</hi> in bidding them go and proſper, and putting into their minds theſe wicked <hi>Plots,</hi> and into thoſe heads that ſate with their <hi>Holy Father</hi> the <hi>Pope,</hi> namely of theſe their pillars in former time, <q>Doctor <hi>Fiſher,</hi> Father <hi>Parſons,</hi> Father <hi>Porter,</hi> Father <hi>Worington,</hi> Father <hi>Palmer,</hi> Father <hi>Lovet,</hi> Father <hi>Fiſher,</hi> Doctor <hi>Briſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow,</hi> Doctor <hi>Wright,</hi> Father <hi>Wood,</hi> Father <hi>Lurtice,</hi> Father <hi>Marfield,</hi> Father <hi>Hiam,</hi> Father <hi>Sweete,</hi> Father <hi>Ployden,</hi> Doctor <hi>Smith,</hi> theſe were their great Plotters, as Mr. <hi>Ward</hi> of <hi>Ipſwich,</hi> Mr. <hi>Taylor</hi> of <hi>Clapham</hi> deſcribes, for the advance of the <hi>Roman Catholique Cauſe;</hi> and for the Plotters of the <hi>Powder Treaſon</hi> were theſe, Sir <hi>Everard Digby, Robert Cateſby</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Am<g ref="char:EOLhyphen"/>broſe Rockwood, Francis Treſſam,</hi> &amp;c. and ſo on as appears more at large: (<hi>November</hi> the 5. <hi>Anno</hi> 1605) in divers <hi>Books,</hi> which are ſo well known, that I need not relate them, for <hi>God</hi> did let their miſchief fall on their own <hi>Pate.</hi>
+               </q> Afterward <hi>anno</hi> 1623. what flocking and running was to <hi>Maſſe?</hi> (<hi>Popery</hi> being then ſuffered too too much) for the which many <hi>Citizens</hi> (as now) with others would go but to ſee <hi>Maſſe,</hi> for it was as publick as in theſe daies, and ſo <hi>Drew-a-ry</hi> their Prieſt in <hi>Black-fryers</hi> drew them awry, where ſuddenly the <hi>Houſe</hi> under them <hi>ſunk</hi> and fell down, and many <hi>Citizens</hi> and others thet went but to ſee (as too many now do) never returned but <hi>ſunk</hi> ſuddenly down, and had not time to ſay, <hi>Lord</hi> have <hi>mercy</hi> on us: of this read more in Mr. <hi>Gees Foot out of the Snare,</hi> in this was no <hi>plot,</hi> no <hi>powder,</hi> but the <hi>Hand of God;</hi> and theſe verſes have I ſeen made by a reverend <hi>Divine</hi> upon the fall of theſe.</p>
+            <q>
+               <l>
+                  <g ref="char:V">Ʋ</g>pward had we gone, downward goes our foes,</l>
+               <l>Falſe Doctrines weight, fair Houſes overthrowes;</l>
+               <l>Our Engliſh Pulpits, Popiſh puddle bear not,</l>
+               <l>Our Chairs, our Chambers overthrow and ſpare not.</l>
+               <l>But he whoſe never ſlumbering Eye did view</l>
+               <l>The ſlight intendments of this damned crew,</l>
+               <l>Did ſoon pull down what they did think moſt ſure,</l>
+               <l>Thy mercies Lord, for ever will endure.</l>
+            </q>
+            <p>But for a <hi>Plot,</hi> and all <hi>Plots</hi> to ſet up, advance, and bring
+<pb facs="tcp:135355:3"/>in <hi>Popery,</hi> let the Reader that deſires to know or read more of the cunning carriage of the <hi>Popiſh party,</hi> and their <hi>Jeſuiticall plots,</hi> in that learned Lawyers Books, <hi>The Popiſh Royall Favourite,</hi> 1643. <hi>Rooms Maſter Peece,</hi> 1644. and the <hi>Hidden Works of Dark<g ref="char:EOLhyphen"/>neſſe,</hi> 1645. Who hath to his comfort, by God been preſerved and kept as <hi>Daniel</hi> in the <hi>Lyons</hi> Den, and God that keeps Eels to <hi>live</hi> and <hi>thrive</hi> in the <hi>mud,</hi> can and will preſerve him ſafe in any <hi>place</hi> by his Providence, into whoſe protection, and under whom I know he deſires to be <hi>protected.</hi>
+            </p>
+            <p>But now to come cloſer to my <hi>brethren,</hi> and to atteſt what they have written, and to declare that which is too true con<g ref="char:EOLhyphen"/>cerning <hi>Popiſh Books,</hi> and the growth of <hi>Popery,</hi> and moſt poy<g ref="char:EOLhyphen"/>ſoning and moſt <hi>Blaſphemous Books,</hi> as in their firſt Section they hint and expreſſe in the <hi>Catalogue</hi> at the end: I hope this <hi>Honoura<g ref="char:EOLhyphen"/>ble Houſe</hi> wil pardon my boldneſſe in all things that I ſhal write of that is <hi>Truth,</hi> and <hi>Truth</hi> need not creep in a <hi>corner,</hi> nor be aſhamed to ſhew his <hi>face</hi> in any <hi>place,</hi> eſpecially and above where in former time his evidence hath been taken and was found <hi>Authentick.</hi> And now in regard our <hi>Honourable Parlia<g ref="char:EOLhyphen"/>ment</hi> have made a greater profeſſion for <hi>Reformation,</hi> then any heretofore, and have by <hi>Declarations</hi> declared in that kinde their exceeding care in demoliſhing <hi>Images, Pictures</hi> in <hi>windowes,</hi> and <hi>burning</hi> ſome <hi>Books</hi> that have been <hi>Popiſh</hi> and <hi>Erroneous,</hi> and alſo ſome few <hi>Blaſphemous</hi> and <hi>Scandalous Books,</hi> yet ſo many paſs, and ſuch multitudes printed, and thoſe that vent and preferre them ſo ſlenderly puniſhed, or not at all almoſt <hi>ſuffer,</hi> that I cannot forbear, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t could have wiſhed I had been worthy to know of that my Brethren have done that I might have been worthy to have joyned with them. But <hi>Via Recta in omni Tem<g ref="char:EOLhyphen"/>pore est Bona,</hi> now I ſay they have moved me to proſecute the <hi>Truth,</hi> for the proof of this and in it, I ſhall be ſo brief as may be, for I intend not to reap up the whole Rable of <hi>Deformation;</hi> but help on to bring one <hi>ſtone,</hi> to begin a <hi>Reformation,</hi> and thus I proceed, I pray take notice.</p>
+            <p>I am a <hi>Stationer</hi> and a <hi>wholeſaleman,</hi> and I ſo profeſſe my ſelf,<note place="margin">
+                  <hi>Sect.</hi> 4.</note> and have dealt in <hi>Books</hi> above 40 years for my ſelf, my firſt maſter when I was Apprentice, dealt much in <hi>Popiſh Books;</hi> and in the firſt year of King <hi>James</hi> reign, ſpent his time in <hi>Stafford-ſhire</hi>
+               <pb n="6" facs="tcp:135355:4"/>at <hi>Worly-hall</hi> in binding, vending, and putting to ſale <hi>Popiſh Books, Pictures, Beads,</hi> and ſuch <hi>Traſh:</hi> there I learned to <hi>abhorre Popery</hi> by ſeeing the groſſe <hi>ignorance</hi> of many amongſt them, and ever ſince have made obſervation of their deceitfull and double dealing; and the more in regard of the <hi>death</hi> of a loving <hi>friend,</hi> that left me ſo <hi>intereſted</hi> with a <hi>Papiſt,</hi> by which I did more and more obſerve their fraud. But this I leave, and to the for<g ref="char:EOLhyphen"/>mer, onely I adde this by way of <hi>obſervation.</hi>
+            </p>
+            <p>In my <hi>Trading</hi> to divers parts, I found how all my <hi>Chapmen</hi> were addicted, and dealing with ſome in <hi>Worceſter,</hi> &amp;c. amongſt the reſt with one <hi>Francis Aſh</hi> a <hi>Book-binder</hi> and ingenious fel<g ref="char:EOLhyphen"/>low, an excellent <hi>Workman,</hi> a ſtrong and ſecret <hi>Papiſt.</hi> This man had from time to time written to me for divers <hi>Popiſh Books,</hi> and I alwayes either put it by or evaded to furniſh his <hi>Letter</hi> in that ſort; and he being an excellent <hi>Workman,</hi> I em<g ref="char:EOLhyphen"/>ployed him and got ſome friends to do the like; for he grew ſo famous in <hi>Bristoll, Gloceſter, Shrewsbury, Hereford,</hi> and many places, eſpecially with all the <hi>Papists</hi> in <hi>Worceſterſhire,</hi> and having got intimation with moſt of the greateſt <hi>Papiſts</hi> was in a manner <hi>Agent</hi> for them, got good ſums of <hi>money,</hi> and was greatly pre<g ref="char:EOLhyphen"/>ferred of all, for <hi>Popiſh Books, Pictures,</hi> and the like; and found an extraordinary <hi>Trade,</hi> eſpecially to joyn <hi>pictures</hi> to the Eng<g ref="char:EOLhyphen"/>liſh Bible in 8<hi rend="sup">vo.</hi> which <hi>pictures</hi> he had from Mr. <hi>Robert Peake,</hi> (who after went to <hi>Baſing-houſe</hi>) ſo that Mr. <hi>Aſh</hi> after took a voyage to <hi>France</hi> for <hi>Popiſh Books,</hi> and <hi>pictures</hi> for the <hi>Bible,</hi> which the <hi>Papists</hi> ſo much extolled, ſo that now the <hi>Papiſts</hi> of late will have <hi>Bibles</hi> in Engliſh, and the <hi>Po<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> cannot avoid it, but ſo that all their ſorts muſt have <hi>pictures,</hi> and I fear Popiſh notes: and by this means <hi>Aſh</hi> grew into an extraordinary way to get <hi>Trade;</hi> I am credibly informed there, that in <hi>France</hi> he dealt for the <hi>pictures</hi> of all the <hi>Popiſh</hi> ſorts, and the moſt excel<g ref="char:EOLhyphen"/>lent, as of <hi>Vandikes Draft,</hi> and there bargained with an excellent workman Mr. <hi>Hollard</hi> to ingrave and cut them, and gave a piece of money in hand to begin withall, and they there were begun, and divers proffers made of them ſince. But after <hi>Aſh</hi> came home, having by <hi>Papiſts</hi> got a good conſiderable ſumme of <hi>money</hi> in his hand, and the <hi>King</hi> coming to <hi>Worceſter,</hi> and the <hi>Parliament</hi> beſieging it, <hi>Aſh</hi> fearing to be plundered, flung the
+<pb n="7" facs="tcp:135355:4"/>ſaid <hi>money</hi> into a <hi>Houſe</hi> of <hi>Office</hi> amongſt the <hi>filth,</hi> and after that <hi>Worceſter</hi> was taken by the <hi>Parliaments</hi> Forces about 14 dayes, he would truſt none but himſelf, who breaking open the <hi>Houſe</hi> of <hi>Office,</hi> undertook to ſift his <hi>Gold</hi> and <hi>Silver</hi> from the <hi>filth;</hi> by reaſon of which noyſome ſmell he was <hi>ſuffocated,</hi> and (as I may ſay) <hi>poyſoned,</hi> and ſoon after <hi>dyed.</hi>
+            </p>
+            <p>That this is true, many in <hi>Worcester</hi> can affirm. But know this, that Mr. <hi>Ho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> goes on, and is come out of <hi>France</hi> and lives in <hi>Covent-garden,</hi> and at work on the <hi>pieces,</hi> whereof about fourteen are finiſhed.</p>
+            <p>Now <hi>Honourable Worthies</hi> look to have <hi>Popiſh notes</hi> to the <hi>Po<g ref="char:EOLhyphen"/>piſh pictures,</hi> and where you heretofore put <hi>pictures</hi> out of <hi>win<g ref="char:EOLhyphen"/>dowes</hi> from ſight of your <hi>Eyes,</hi> now look to have them in your <hi>Bibles</hi> to ſet in the <hi>Heart,</hi> and ſo to have <hi>Popery rooted</hi> in you; for if you will not come to them, the <hi>Jeſuites</hi> have a <hi>plot</hi> to come to you. <hi>Honourable Worthies</hi> look in time, how <hi>people</hi> ſwarme to <hi>Maſſes,</hi> and the <hi>Gentry</hi> do ſend their daughters to make <hi>Nuns: Look</hi> with your eyes, <hi>hear</hi> with your <hi>Ears, pity</hi> with your <hi>Hearts,</hi> and <hi>conſider, O conſider,</hi> the grievous complaint, (and not without cauſe) <hi>True Religion</hi> is corrupted, and the miſery of <hi>poor periſhing Stationers</hi> overthrown, and how every <hi>Pedler, Hawker, running Mercury,</hi> now hath got the <hi>trade</hi> of <hi>Bibles, Popiſh, Blaſphemous, Conjuring, Hereticall, impious</hi> and <hi>ſlanderous Books</hi> and <hi>Libels,</hi> to the diſhonour of <hi>God,</hi> ſcandall of <hi>Religion,</hi> the decay of <hi>Piety,</hi> and the diſgrace of your <hi>Government.</hi> Doe you not ſee <hi>Right Honourable Governours</hi> of our <hi>State,</hi> you cannot chuſe but <hi>ſee,</hi> and <hi>bear,</hi> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>know,</hi> how this ſpreading <hi>Gangreen</hi> runs quiet, and vent <hi>blaſphemous, heliſh,</hi> and <hi>horrid Books;</hi> I ſhall not ſtand to <hi>Catalogue</hi> all, for ſo I ſhould muſter an <hi>Army</hi> of them, only I will name one <hi>inſtar onmium,</hi> which is that <hi>Fiery flying Roll</hi> of <hi>Copps,</hi> where heterms the <hi>Holy Bible</hi> the <hi>Scripturian Whore:</hi> Was not one hanged in Qu. <hi>Elizabeths</hi> dayes for a <hi>Book</hi> not like that? Have not I of late ſeen many <hi>Books,</hi> that had they been publiſhed in the Biſhops dayes, how had a man <hi>ſuffered?</hi> I know, and with grief I <hi>ſpeak</hi> it, I <hi>heard</hi> an <hi>Anabaptiſt</hi> (as he profeſſeth himſelf) affirm it to my face, when I told him I marvelled he would <hi>print</hi> ſuch a <hi>Book,</hi> as he had then <hi>printed,</hi> and how he could in <hi>conſcience</hi> publiſh a Book ſo erroneous: his anſwer
+<pb facs="tcp:135355:5"/>was in theſe plain <hi>ungodly termes,</hi> he got by it, and well too; I told him although a man got never ſo much, yet he ſhould have a care what he Printed, his reply was thus, if the <hi>Devill</hi> himſelf ſhould give him or bring him a Book that he was ſure to get by, he would <hi>print</hi> it: ſo I left him to be the <hi>Devils Statio<g ref="char:EOLhyphen"/>ner,</hi> for I know none will deſire that <hi>place,</hi> yet too many now vend Books for him. Oh you <hi>High</hi> and <hi>Worthy Members</hi> of the <hi>Houſe,</hi> you that ſit at the Stern, you are or at leaſt ſhould be the Watchmen of our Common-wealth, as I doubt not but you will look to the <hi>ſwarmes</hi> of Ladies daughters and young Gentlewomen hurryed beyond the <hi>Seas</hi> to be <hi>Nuns.</hi> Next look into <hi>Pauls Churchyard,</hi> how many have lived <hi>bravely,</hi> kept good <hi>houſes,</hi> invited, entertained <hi>Clergy, Gentry,</hi> and all <hi>ſorts</hi> to their <hi>Tables,</hi> were able to give entertainment to men of <hi>learning,</hi> men of <hi>parts, knowing-men, travellers, ſtrangers,</hi> of moſt <hi>Chriſtian Nations,</hi> and able to <hi>entertain</hi> and <hi>welcome</hi> any, and to give li<g ref="char:EOLhyphen"/>berally to the <hi>poor,</hi> and who ſo well <hi>reſpected</hi> in <hi>Court, City,</hi> or <hi>Countrey</hi> as <hi>Stationers, knowing men, honeſt men, pious men, men</hi> in <hi>name</hi> and <hi>fame</hi> of <hi>credit;</hi> and happy were the <hi>ſtrangers</hi> that <hi>tra<g ref="char:EOLhyphen"/>velled</hi> theſe <hi>parts</hi> that knew <hi>Stationers,</hi> and now, now, now, <hi>poor honeſt Stationer,</hi> where's thy <hi>glory?</hi> where's thy <hi>fame?</hi> where's thy <hi>plenty?</hi> Alas, alas! in <hi>penury,</hi> where as yearly came a hun<g ref="char:EOLhyphen"/>dred, or at leaſt eighty great <hi>Dryfats</hi> from beyond the <hi>ſeas</hi> with <hi>Books,</hi> now four or five <hi>Dryfats</hi> ſerves, where multitudes of people, and no mean ones, and all like <hi>Bees</hi> brought <hi>Honey</hi> to their <hi>Hive;</hi> now it may be comes a <hi>Drone,</hi> a <hi>Waſpe,</hi> it may be a <hi>Spider,</hi> and all to <hi>ſuck</hi> from them: I dare <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and I have heard it, and from honeſt <hi>Stationers,</hi> that have had <hi>brave plentifull Ware<g ref="char:EOLhyphen"/>houſes,</hi> full <hi>Shops, excellently stored,</hi> and able to fit any <hi>Cuſtomer,</hi> and theſe have told me, and I find and know it to be too <hi>true,</hi> that they have not taken 20 <hi>s.</hi> a week, and their <hi>Rent</hi> to be paid was ſo much without <hi>Firing, Beer,</hi> and <hi>Bread,</hi> with much more charges, &amp;c. nay I have heard others that have been excellent well furniſhed, that they took not above 12 <hi>s.</hi> a week, ſome not ſo much; How, O how can theſe pay that they have not! and I write it with <hi>grief,</hi> I know it, where 500 <hi>l.</hi> ſince this un<g ref="char:EOLhyphen"/>happy war was expended in Paper and Printing, and a great deal of it for the <hi>Parliaments glory,</hi> the good of this Common<g ref="char:EOLhyphen"/>wealth
+<pb facs="tcp:135355:5"/>and for <hi>Gods glory,</hi> and all in Printing and Paper, and ſodainly after ſold for 75 <hi>l.</hi> I know where 1000 <hi>l.</hi> more hath been turned to waſt <hi>paper,</hi> and that which coſt 10 or 12 <hi>s.</hi> a <hi>Ream</hi> ſold at 2 <hi>s.</hi> 6 <hi>d.</hi> the very ſame. Should here my brother <hi>Stationers</hi> come forth, and at a generall <hi>Muſter</hi> call'd to accompt, there is not that man now living, that hath <hi>Reaſon, Conſcience,</hi> or <hi>Judgement,</hi> but would preſently ſay <hi>Poor honeſt Sta<g ref="char:EOLhyphen"/>tioner,</hi> get thee gone, and aſſociate thy ſelf with thy brother <hi>Girdler,</hi> and brother <hi>Imbroiderer,</hi> and the <hi>Lord raiſe</hi> and comfort you up again, for I fear you will be in as ſmall uſe for the <hi>Soule,</hi> as they be for the <hi>Body,</hi> for now your religious learned godly Authors of <hi>Books,</hi> your Divines who had plentifull <hi>Stu<g ref="char:EOLhyphen"/>dies;</hi> and all <hi>Books</hi> of worth, will yeeld little or no money: have not I known a <hi>Learned Reverend Divines Study</hi> that coſt at leaſt 400 <hi>l.</hi> ſold for 60 <hi>l.</hi> and what a world of <hi>Books</hi> in all parts of this Land, of <hi>Noblemens, Gentlemens, Miniſters</hi> and others, are now ſold at ſo poor and low a rate, as it is a ſhame that ever <hi>Learning</hi> ſhould be ſo undervalued: ſhould I undertake to muſter an Army of theſe, which if I ſhould, I ſhould exceed my intenti<g ref="char:EOLhyphen"/>ons; for ſhould I but ſhew the ſwarmes of <hi>Flyes</hi> and <hi>Lice,</hi> I may ſay now of the <hi>baſe, filthy, ſtinking,</hi> (a <hi>term</hi> it pleaſed an un<g ref="char:EOLhyphen"/>learned marryed woman of late not for want of <hi>Ignorance</hi> to put upon our <hi>old Divinity Books</hi>) which is and may be very well retorted back to their new <hi>ſtinking ſtuffe</hi> daily Printed, able to <hi>fire Church</hi> and <hi>State,</hi> and fit for the <hi>Devils Imps,</hi> and no way to reforme <hi>Religion</hi> or <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te,</hi> nor as I ſee like to be <hi>reformed,</hi> for our Reformation is now a Deſolation; for how many poor Miniſters Wives and Children come daily to beg, and how many Miniſters cannot have ſufficient to cloath and feed their own Families at home and abroad,<note place="margin">Witneſſe <hi>Burmuda</hi> Reforma<g ref="char:EOLhyphen"/>tion and Plantatio<g ref="char:cmbAbbrStroke">̄</g> where is not one Miniſter left in that Country for want of means.</note> then how ſhould they buy Books that cannot buy ſhoes to their feet or cloathes to their backs. Now our new Praters or Preachers have gifts they will ſay, and that paſſes <hi>Humane Learning.</hi> It is too true; there be many gifted men, for hath not one a place in the <hi>Exciſe,</hi> a ſhop with <hi>Wares</hi> near the <hi>Exchange,</hi> and a preacher near S. <hi>Albans:</hi> I hope they will not have three wives. In the Biſhops dayes we thought it not fit one ſhould have three <hi>Benefices</hi> at once, but now ſuch hold it nothing to have three Callings as the gifted men ſay. But their Diſputations which begun in <hi>Cole<g ref="char:EOLhyphen"/>man-ſtreet</hi>
+               <pb facs="tcp:135355:6"/>and at the <hi>Spittle,</hi> will not end in <hi>Bow-lane;</hi> nor <hi>Milk-ſtreet,</hi> nor <hi>Beech-lane;</hi> I leave them to argue and diſpute, and the <hi>Impoveriſhed</hi> poor <hi>Miniſters</hi> in a complaint, untill a <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> which now as it is in a <hi>perfect Deſolation</hi> we ſee; for how many <hi>Churches</hi> in <hi>Wales</hi> and ſome other parts are turned to <hi>Hogsties, Cow-houſes Stables, Gaming-places;</hi> do we not ſee, and have we not ſeen the <hi>Ten Commandements</hi> put out where the <hi>Nine Pins</hi> and a <hi>Bowle</hi> is put in! Let any judge which is the better place of <hi>Pauls</hi> the <hi>upper</hi> part or the <hi>lower,</hi> had the Book<g ref="char:EOLhyphen"/>ſellers had ſhops in the two outward Iſles of <hi>Pauls,</hi> and the mid<g ref="char:EOLhyphen"/>dle been a <hi>walk</hi> or paſſage, or had it been made an <hi>Hoſpitall</hi> for our Lame <hi>Souldiers,</hi> an <hi>Almſhouſe</hi> or an <hi>Armoury,</hi> it would have been more commendable: I know no reaſon but they that have the <hi>Timber</hi> and <hi>Lead</hi> ſhould repay to me and 10000 more the money we lent for the repair, being <hi>Lead</hi> is ſuch a com<g ref="char:EOLhyphen"/>modity for the <hi>Dutch,</hi> I hope it will be conſidered, and we to be paid back in money. But what ſay ſome, a Meeting houſe is more convenient then the Church: I remember when I was in <hi>Leyden</hi> they had one, and I and my <hi>Comorades</hi> fellow <hi>Travellers</hi> ſaw them <hi>Excommunicate</hi> all in that Meeting houſe to the laſt ſingle man, and that was their brave <hi>agreement,</hi> God ſend us a <hi>better.</hi> But now ſay the <hi>Welch</hi> up to the <hi>Mountain,</hi> and to the <hi>higheſt Mountain,</hi> and there we ſhall finde <hi>Christ:</hi> another ſayes to the <hi>Sea-ſhore,</hi> and hear our Brother out of the <hi>Ship,</hi> for there's <hi>Chriſt;</hi> another comes to the <hi>Market-houſe,</hi> and there he will ſell <hi>Chriſt,</hi> (I hope not <hi>Judas</hi>) for no money. Go but to <hi>Carmarthen,</hi> and there with <hi>bleeding Heart,</hi> and <hi>watering Eyes, ſee</hi> and <hi>hear,</hi> and <hi>beleeve</hi> the <hi>miſeries</hi> of thoſe parts: And here I im<g ref="char:EOLhyphen"/>plore the <hi>Honourable Parliament,</hi> and all the <hi>Members</hi> thereof, the <hi>Councell</hi> of <hi>State,</hi> and all, to joyn and help now or <hi>never,</hi> for now here is <hi>fire,</hi> the ſecond <hi>Beacon</hi> is on <hi>fire,</hi> and all cry <hi>Fire, fire, fire,</hi> and we know when <hi>Fire</hi> is here in <hi>London</hi> cryed, all comes, the Lord <hi>Maior,</hi> the <hi>Sheriffs,</hi> the <hi>Commons,</hi> the <hi>Poor,</hi> the <hi>Rich,</hi> the <hi>Maſter,</hi> the <hi>Servant,</hi> one brings a <hi>Brome,</hi> another a <hi>Bucket,</hi> a third a <hi>Payle,</hi> ſome <hi>Ladders,</hi> ſome <hi>Hooks,</hi> and the Lord <hi>Maior</hi> and <hi>Sheriffs</hi> call for the ☞ <hi>Engine</hi> to play and quench the <hi>fire. Honourable</hi> and <hi>Honoured,</hi> you <hi>Parliament Members,</hi> you the <hi>Honourable</hi> of the <hi>Councell</hi> of <hi>State,</hi> come bring out the ☞ <hi>Engine,</hi>
+               <pb n="11" facs="tcp:135355:6" rendition="simple:additions"/>come and begin thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Reformation</hi> againſt <hi>baſe poyſonous Popiſh Books,</hi> againſt <hi>Conjuring, horrid Blaſphemous Books,</hi> and Diſorders in <hi>Church</hi> and <hi>State;</hi> Execute thoſe your <hi>Acts</hi> (upon ſuch horrid <hi>Books,</hi> as hath been Printed) alſo ſet out <hi>Licenſing</hi> and <hi>Licenſers;</hi> Look to <hi>Pedlers, Hawkers, Running Mercuriſts</hi> and ſellers of <hi>Pop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh Blaſphemous Books:</hi> you can do what you pleaſe to them that de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>Aſſeſſements</hi> or <hi>Taxes,</hi> and preſently <hi>curb</hi> them, and why not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the abuſers of <hi>Printing unlicenſed Books;</hi> and you that can puniſh for old <hi>Primers</hi> can puniſh for <hi>Maſſe Books, lying, ſcandalous Ranting Books, Blaſphemous Scurrillous Books,</hi> for <hi>poyſonous Popiſh Pictures,</hi> and for what you pleaſe; you know a File of <hi>Red Cotes</hi> can command <hi>Taxes</hi> for you; Let this command your <hi>Ordinances,</hi> for <hi>Gods glory,</hi> and execute <hi>Law, Juſtice,</hi> and <hi>Equity,</hi> and we ſhall for ever <hi>give God</hi> the <hi>Glory,</hi> you the <hi>Honour</hi> and <hi>Praiſe:</hi> And if <hi>Scintilla</hi> have offended, I humbly <hi>ſubmit,</hi> and thus I leave this <hi>Beacons Fire</hi> not to go out, untill the 19 of the <hi>Acts</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e 19 be performed to <hi>Gods Glory,</hi> which <hi>God</hi> grant: And thus I end, only wiſhing I may live not to ſee this <hi>Fire</hi> go out un<g ref="char:EOLhyphen"/>till I ſee all <hi>Blaſphemous Books</hi> of <hi>Conjuration,</hi> and the <hi>Turkiſh Al<g ref="char:EOLhyphen"/>choran</hi> and all <hi>Hereticall, Schiſmaticall, Ranting, Scandalous</hi> and <hi>Li<g ref="char:EOLhyphen"/>bellous Books</hi> with <hi>Bawdery</hi> and <hi>Scurrility</hi> be conſumed by this ſecond <hi>Beacon</hi> ſet on <hi>fire</hi> by <hi>Scintilla.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
